@@ -7,20 +7,19 @@
 | [QQImger](https://github.com/mogumc/QQImger)  | 通用QQ上架表情包下载器 | [访问](https://github.com/mogumc/QQImger/releases) | 不再更新 |
 
 <div align="left">
-  <div>
-    <a href="https://my.baidup.top/"><img src="https://img.shields.io/badge/KinhWeb-%E8%AE%BF%E9%97%AE-8c36db" /></a>
-    <a href="https://t.me/tg_tx"><img src="https://img.shields.io/badge/Telegram-交流群-66ccff" /></a>
-    <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
-  
   <img src="https://ghchart.rshah.org/mogumc" />
 </div>  
 
 
 
 # 你好👋
-
 ### <img width="200" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20MoGuQAQ&font=Doto" /> 
+
+<div>
+  <a href="https://my.baidup.top/"><img src="https://img.shields.io/badge/KinhWeb-%E8%AE%BF%E9%97%AE-8c36db" /></a>
+  <a href="https://t.me/tg_tx"><img src="https://img.shields.io/badge/Telegram-交流群-66ccff" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+</div>
 
 ## 🧐 About Me
 <div align="left">
@@ -34,19 +33,15 @@
 
 - 大学在读 &emsp; 📌 2024-09 —— 
   - 专业：数据科学与大数据技术
-  - 学习方向: Java开发/数据库开发
+  - 学习方向: Java开发/数据库设计
 
-## 📊 GitHub 数据统计
+## 📊 GitHub Statis Data
 
-<!-- GitHub 数据统计 -->
 <div align="left">
   <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mogumc&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=fff&icon_color=000" /> 
   <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mogumc&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff" />
 </div>
 
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
     <td>
