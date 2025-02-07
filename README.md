@@ -29,6 +29,9 @@
   <p>我很穷请给我钱</p>
 </div><br />
 
+Contact:
+- E-mail: <mogumc@outlook.com>
+- Telegram: [MoGuQAQ](https://t.me/MoGuQAQ)
 ## 🏢 Personal Experience
 
 - 本科在读 &emsp; 📌 2024-09 —— 
