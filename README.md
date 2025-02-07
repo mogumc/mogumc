@@ -6,7 +6,7 @@
 | [WeUI](https://github.com/mogumc/KinhWeb-WEUI)  | KinhWeb主题 | [访问](https://github.com/mogumc/KinhWeb-WEUI/releases) | 维护中 |
 | [QQImger](https://github.com/mogumc/QQImger)  | 通用QQ上架表情包下载器 | [访问](https://github.com/mogumc/QQImger/releases) | 暂停维护 |
 | [MGAuth](https://github.com/mogumc/MGAuth)  | PHP统一API认证系统 | [访问](https://github.com/mogumc/MGAuth) | 暂停维护 |
-
+| [其他仓库](https://github.com/mogumc?tab=repositories)  | 更多仓库 | [访问](https://github.com/mogumc?tab=repositories) | 维护中 |
 <div align="left">
   <img src="https://ghchart.rshah.org/mogumc" />
 </div>  
