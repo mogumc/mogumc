@@ -5,7 +5,7 @@
 | [TeleBaiduPan](https://github.com/mogumc/TeleBaiduPan)  | 基于Telegram Bot的百度网盘管理工具 | [访问](https://github.com/mogumc/TeleBaiduPan/releases) | 开发中 |
 | [WeUI](https://github.com/mogumc/KinhWeb-WEUI)  | KinhWeb主题 | [访问](https://github.com/mogumc/KinhWeb-WEUI/releases) | 维护中 |
 | [QQImger](https://github.com/mogumc/QQImger)  | 通用QQ上架表情包下载器 | [访问](https://github.com/mogumc/QQImger/releases) | 暂停维护 |
-| [MGAuth](https://github.com/mogumc/MGAuth)  | PHP统一API认证系统 | [访问](https://github.com/mogumc/QQImger/MGAuth) | 暂停维护 |
+| [MGAuth](https://github.com/mogumc/MGAuth)  | PHP统一API认证系统 | [访问](https://github.com/mogumc/MGAuth) | 暂停维护 |
 
 <div align="left">
   <img src="https://ghchart.rshah.org/mogumc" />
