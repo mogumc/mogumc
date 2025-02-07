@@ -42,13 +42,8 @@
   <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mogumc&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff" />
 </div>
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=xcode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night" />
+</picture>
