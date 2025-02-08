@@ -30,3 +30,9 @@ jobs:
           user: mogumc
           base: header
           plugin_introduction: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_traffic: yes
