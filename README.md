@@ -16,7 +16,7 @@
 # 你好👋
 
 <picture>
-  <img align="right" width="45%" src="/metrics.plugin.traffic.svg" alt="Metrics" />
+  <img align="right" height="100%" width="45%" src="/metrics.plugin.traffic.svg" alt="Metrics" />
 </picture>
 
 ### <img width="200" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20MoGuQAQ&font=Doto" /> 
@@ -31,10 +31,10 @@
 ## 🧐 About Me
 
 <picture>
-  <img align="left" width="45%" src="/metrics.plugin.introduction.svg" alt="Metrics" />
+  <img align="left" height="100%" width="45%" src="/metrics.plugin.introduction.svg" alt="Metrics" />
 </picture>  
 <picture>
-  <img align="right" width="45%" src="/metrics.plugin.steam.full.svg" alt="Metrics" />
+  <img align="right" height="100%" width="45%" src="/metrics.plugin.steam.full.svg" alt="Metrics" />
 </picture>  
 <br><br><br><br><br><br>
 
