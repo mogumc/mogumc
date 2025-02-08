@@ -1,4 +1,5 @@
 ## 仓库
+
 |                             名称                             |                             简介                             |                      下载地址                       |                      维护状态                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
 | [KinhWeb](https://github.com/mogumc/KinhWeb)  | 基于百度网盘的在线仓库 | [访问](https://github.com/mogumc/KinhWeb/releases) | 维护中 |
@@ -7,13 +8,17 @@
 | [QQImger](https://github.com/mogumc/QQImger)  | 通用QQ上架表情包下载器 | [访问](https://github.com/mogumc/QQImger/releases) | 暂停维护 |
 | [MGAuth](https://github.com/mogumc/MGAuth)  | PHP统一API认证系统 | [访问](https://github.com/mogumc/MGAuth) | 暂停维护 |
 | [其他仓库](https://github.com/mogumc?tab=repositories)  | 更多仓库 | [访问](https://github.com/mogumc?tab=repositories) | 维护中 |
+
 <div align="left">
   <img src="https://ghchart.rshah.org/mogumc" />
 </div>  
 
-
-
 # 你好👋
+
+<picture>
+  <img align="right" width="45%" src="/metrics.plugin.introduction.svg" alt="Metrics">
+</picture>
+
 ### <img width="200" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20MoGuQAQ&font=Doto" /> 
 
 <div>
@@ -21,23 +26,32 @@
   <a href="https://t.me/tg_tx"><img src="https://img.shields.io/badge/Telegram-交流群-66ccff" /></a>
   <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
+<br>
 
 ## 🧐 About Me
+
+<picture>
+  <img align="right" width="45%" src="/metrics.plugin.steam.full.svg" alt="Metrics">
+</picture>
 <div align="left">
   <img align="left" style="width:100px; height:100px; border-radius:50%; " src="https://avatars.githubusercontent.com/u/67809394?v=4" />
   <h4 align="left">蘑菇QAQ</h4>
   <p align="left">@mogumc</p>
   <p>我很穷请给我钱</p>
-</div><br />
+</div>
+<br>
 
 Contact:
 - E-mail: <mogumc@outlook.com>
 - Telegram: [MoGuQAQ](https://t.me/MoGuQAQ)
+<br>
+
 ## 🏢 Personal Experience
 
 - 本科在读 &emsp; 📌 2024-09 —— 
   - 专业：数据科学与大数据技术
   - 学习方向: Java开发/大数据开发
+<br>
 
 ## 📊 GitHub Statis Data
 
