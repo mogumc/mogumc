@@ -23,3 +23,10 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: "76561198977272054"
           plugin_steam_achievements_limit: 0
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: github
+          base: header
+          plugin_introduction: yes
