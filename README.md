@@ -16,7 +16,7 @@
 # 你好👋
 
 <picture>
-  <img align="right" width="45%" src="/metrics.plugin.introduction.svg" alt="Metrics">
+  <img align="right" width="45%" src="/metrics.plugin.traffic.svg" alt="Metrics" />
 </picture>
 
 ### <img width="200" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20MoGuQAQ&font=Doto" /> 
@@ -24,26 +24,24 @@
 <div>
   <a href="https://my.baidup.top/"><img src="https://img.shields.io/badge/KinhWeb-%E8%AE%BF%E9%97%AE-8c36db" /></a>
   <a href="https://t.me/tg_tx"><img src="https://img.shields.io/badge/Telegram-交流群-66ccff" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
 <br>
 
 ## 🧐 About Me
 
 <picture>
-  <img align="right" width="45%" src="/metrics.plugin.steam.full.svg" alt="Metrics">
-</picture>
-<div align="left">
-  <img align="left" style="width:100px; height:100px; border-radius:50%; " src="https://avatars.githubusercontent.com/u/67809394?v=4" />
-  <h4 align="left">蘑菇QAQ</h4>
-  <p align="left">@mogumc</p>
-  <p>我很穷请给我钱</p>
-</div>
-<br>
+  <img align="left" width="45%" src="/metrics.plugin.introduction.svg" alt="Metrics" />
+</picture>  
+<picture>
+  <img align="right" width="45%" src="/metrics.plugin.steam.full.svg" alt="Metrics" />
+</picture>  
+<br><br><br><br><br><br>
 
-Contact:
+Contact Me:
 - E-mail: <mogumc@outlook.com>
 - Telegram: [MoGuQAQ](https://t.me/MoGuQAQ)
+
 <br>
 
 ## 🏢 Personal Experience
