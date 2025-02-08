@@ -54,8 +54,8 @@ Contact Me:
 ## 📊 GitHub Statis Data
 
 <div align="left">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mogumc&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=fff&icon_color=000" /> 
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mogumc&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff" />
+  <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api?username=mogumc&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&locale=cn" /> 
+  <img height="150" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mogumc&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=000&locale=cn" />
 </div>
 
 <picture>
