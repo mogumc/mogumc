@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{ cron: "0 0 * * *" }]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: { branches: ["master", "main"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.full.svg
+          token: NOT_NEEDED
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198977272054"
+          plugin_steam_achievements_limit: 0
