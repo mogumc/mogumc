@@ -34,7 +34,7 @@
   <img align="left" height="100%" width="45%" src="/metrics.plugin.introduction.svg" alt="Metrics" />
 </picture>  
 <picture>
-  <img align="right" height="100%" width="45%" src="/metrics.plugin.steam.full.svg" alt="Metrics" />
+  <img align="right" height="100%" width="45%" src="/metrics.plugin.steam.svg" alt="Metrics" />
 </picture>  
 <br><br><br><br><br><br>
 
