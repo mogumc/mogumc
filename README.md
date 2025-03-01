@@ -44,12 +44,17 @@ Contact Me:
 
 <br>
 
+## 🔢Language Used
+
+<picture>
+  <img src="/icon.language.used.svg" alt="skillicons" />
+</picture>
+
 ## 🏢 Personal Experience
 
 - 本科在读 &emsp; 📌 2024-09 —— 
   - 专业：数据科学与大数据技术
   - 学习方向: Java开发/大数据开发
-<br>
 
 ## 📊 GitHub Statis Data
 
