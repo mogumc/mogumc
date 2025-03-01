@@ -3,10 +3,9 @@
 |                             名称                             |                             简介                             |                      下载地址                       |                      维护状态                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
 | [KinhWeb](https://github.com/mogumc/KinhWeb)  | 基于百度网盘的在线仓库 | [访问](https://github.com/mogumc/KinhWeb/releases) | 维护中 |
-| [TeleBaiduPan](https://github.com/mogumc/TeleBaiduPan)  | 基于Telegram Bot的百度网盘管理工具 | [访问](https://github.com/mogumc/TeleBaiduPan/releases) | 开发中 |
 | [WeUI](https://github.com/mogumc/KinhWeb-WEUI)  | KinhWeb主题 | [访问](https://github.com/mogumc/KinhWeb-WEUI/releases) | 维护中 |
-| [QQImger](https://github.com/mogumc/QQImger)  | 通用QQ上架表情包下载器 | [访问](https://github.com/mogumc/QQImger/releases) | 暂停维护 |
-| [MGAuth](https://github.com/mogumc/MGAuth)  | PHP统一API认证系统 | [访问](https://github.com/mogumc/MGAuth) | 暂停维护 |
+| [TeleBaiduPan](https://github.com/mogumc/TeleBaiduPan)  | 基于Telegram Bot的百度网盘管理工具 | [访问](https://github.com/mogumc/TeleBaiduPan/releases) | 开发中 |
+| [KinhWeb-GUI](https://github.com/mogumc/KinhWeb-GUI)  | 第三方百度网盘工具 | [访问](https://github.com/mogumc/KinhWeb-GUI/releases) | 开发中 |
 | [其他仓库](https://github.com/mogumc?tab=repositories)  | 更多仓库 | [访问](https://github.com/mogumc?tab=repositories) | 维护中 |
 
 <div align="left">
