@@ -43,10 +43,10 @@ Contact Me:
 
 <br>
 
-## 🔢Language Used
+## 🔢Skills Used
 
 <picture>
-  <img src="/icon.language.used.svg" alt="skillicons" />
+  <img src="/icon.skills.used.svg" alt="skillicons" />
 </picture>
 
 
