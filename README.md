@@ -22,6 +22,7 @@
 
 <div>
   <a href="https://my.baidup.top/"><img src="https://img.shields.io/badge/KinhWeb-%E8%AE%BF%E9%97%AE-8c36db" /></a>
+  <a href="https://blog.moguq.top/"><img src="https://img.shields.io/badge/Blog-%E8%AE%BF%E9%97%AE-8c36db" /></a>
   <a href="https://t.me/tg_tx"><img src="https://img.shields.io/badge/Telegram-交流群-66ccff" /></a>
   <img src="https://komarev.com/ghpvc/?username=mogumc&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
