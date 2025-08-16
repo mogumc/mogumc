@@ -2,10 +2,10 @@
 
 |                             名称                             |                             简介                             |                      下载地址                       |                      维护状态                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
-| [KinhWeb](https://github.com/mogumc/KinhWeb)  | 基于百度网盘的在线仓库 | [访问](https://github.com/mogumc/KinhWeb/releases) | 维护中 |
-| [SpeedTest](https://github.com/mogumc/speedtest)  | 测速工具 | [访问](https://github.com/mogumc/speedtest/releases) | 维护中 |
-| [MGL](https://github.com/mogumc/MGL)  | 一站式启动器 | [访问](https://github.com/mogumc/MGL/releases) | 开发中 |
-| [KinhWeb-GUI](https://github.com/mogumc/KinhWeb-GUI)  | 第三方百度网盘工具 | [访问](https://github.com/mogumc/KinhWeb-GUI/releases) | 开发中 |
+| [KinhWeb](https://github.com/mogumc/KinhWeb)  | 基于百度网盘的在线仓库 | [访问](https://github.com/mogumc/KinhWeb/releases) | Release |
+| [SpeedTest](https://github.com/mogumc/speedtest)  | 测速工具 | [访问](https://github.com/mogumc/speedtest/releases) | Release |
+| [MGL](https://github.com/mogumc/MGL)  | 一站式启动器 | [访问](https://github.com/mogumc/MGL/releases) | Developing |
+| [OpenListGUI](https://github.com/mogumc/OpenListGUI)  | OpenList原生桌面程序 | [访问](https://github.com/mogumc/OpenListGUI/releases) | TBD |
 | [其他仓库](https://github.com/mogumc?tab=repositories)  | 更多仓库 | [访问](https://github.com/mogumc?tab=repositories) | - |
 
 <div align="left">
