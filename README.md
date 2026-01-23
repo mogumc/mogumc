@@ -59,7 +59,7 @@ Contact Me:
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=xcode" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night&bg_color=00000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night&bg_color=00000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night&bg_color=00000" />
 </picture>
