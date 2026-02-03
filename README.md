@@ -39,7 +39,7 @@
 <br><br><br><br><br><br>
 
 Contact Me:
-- E-mail: <mogumc@outlook.com>
+- E-mail: <mogumc#outlook.com>
 - Telegram: [MoGuQAQ](https://t.me/MoGuQAQ)
 
 <br>
