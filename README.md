@@ -18,7 +18,7 @@
   <img align="right" height="100%" width="45%" src="https://pic.moguq.top/actions/metrics.plugin.traffic.svg" alt="Metrics" />
 </picture>
 
-### <img width="200" height="25" src="https://pic.moguq.top/images/250807-moguqaq.svg" /> 
+### <img width="200" height="25" src="https://pic.moguq.top/actions/profile.icon.moguqaq.svg" /> 
 
 <div>
   <a href="https://my.baidup.top/"><img src="https://img.shields.io/badge/KinhWeb-%E8%AE%BF%E9%97%AE-8c36db" /></a>
@@ -47,7 +47,7 @@ Contact Me:
 ## 🔢Skills Used
 
 <picture>
-  <img src="https://pic.moguq.top/images/250807-skillsicon.svg" alt="skillicons" />
+  <img src="https://pic.moguq.top/action/profile.icon.skill.svg" alt="skillicons" />
 </picture>
 
 
