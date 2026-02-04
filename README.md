@@ -47,7 +47,7 @@ Contact Me:
 ## 🔢Skills Used
 
 <picture>
-  <img src="https://pic.moguq.top/action/profile.icon.skill.svg" alt="skillicons" />
+  <img src="https://pic.moguq.top/actions/profile.icon.skill.svg" alt="skillicons" />
 </picture>
 
 
