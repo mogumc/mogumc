@@ -6,7 +6,7 @@
 | [KinhWeb](https://github.com/mogumc/KinhWeb)  | 基于百度网盘的在线仓库 | [访问](https://github.com/mogumc/KinhWeb/releases) | Release |
 | [SpeedTest](https://github.com/mogumc/speedtest)  | 测速工具 | [访问](https://github.com/mogumc/speedtest/releases) | Release |
 | [MGL](https://github.com/mogumc/MGL)  | 一站式启动器 | [访问](https://github.com/mogumc/MGL/releases) | On Hold |
-| [其他仓库](https://github.com/mogumc?tab=repositories)  | 更多仓库 | [访问](https://github.com/mogumc?tab=repositories) | - |
+| [其他仓库](https://github.com/mogumc?tab=repositories)  | 更多仓库 | - | - |
 
 <div align="left">
   <img src="https://ghchart.rshah.org/mogumc" />
