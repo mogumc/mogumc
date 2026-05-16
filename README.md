@@ -2,7 +2,7 @@
 
 |                             名称                             |                             简介                             |                      下载地址                       |                      维护状态                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
-| [OShin](https://github.com/mogumc/OShin)  | 多网盘聚合客户端 | [访问](https://github.com/mogumc/OShin/releases) | Developing |
+| [OShin](https://github.com/OShinTeam/OShin)  | 多网盘聚合客户端 | [访问](https://github.com/OShinTeam/OShin/releases) | Developing |
 | [KinhWeb](https://github.com/mogumc/KinhWeb)  | 基于百度网盘的在线仓库 | [访问](https://github.com/mogumc/KinhWeb/releases) | Release |
 | [SpeedTest](https://github.com/mogumc/speedtest)  | 测速工具 | [访问](https://github.com/mogumc/speedtest/releases) | Release |
 | [MGL](https://github.com/mogumc/MGL)  | 一站式启动器 | [访问](https://github.com/mogumc/MGL/releases) | On Hold |
