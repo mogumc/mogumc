@@ -125,7 +125,7 @@
 
 <div align="center">
 
-**Code Crafted 💫 MoGuQAQ**  
+**Code Crafted 💫 by MoGuQAQ**  
 **© 2026 MoGuQAQ. All rights reserved.**
 
 </div>
