@@ -3,18 +3,7 @@
 -->
 
 <p align="center">
-  <pre>
- _____ ______   ________  ________  ___  ___  ________  ________  ________      
-|\   _ \  _   \|\   __  \|\   ____\|\  \|\  \|\   __  \|\   __  \|\   __  \     
-\ \  \\\__\ \  \ \  \|\  \ \  \___|\ \  \\\  \ \  \|\  \ \  \|\  \ \  \|\  \    
- \ \  \\|__| \  \ \  \\\  \ \  \  __\ \  \\\  \ \  \\\  \ \   __  \ \  \\\  \   
-  \ \  \    \ \  \ \  \\\  \ \  \|\  \ \  \\\  \ \  \\\  \ \  \ \  \ \  \\\  \  
-   \ \__\    \ \__\ \_______\ \_______\ \_______\ \_____  \ \__\ \__\ \_____  \ 
-    \|__|     \|__|\|_______|\|_______|\|_______|\|___| \__\|__|\|__|\|___| \__\
-                                                       \|__|               \|__|
-                                                                                
-                                                                                
-  </pre>
+    <img width="100%" height="50" src="https://pic.moguq.top/actions/profile.icon.moguqaq.svg" /> 
 </p>
 
 <p align="center">
@@ -120,8 +109,6 @@
 ## 🧐 更多
 
 <picture>
-  <img align="left" height="100%" width="45%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.introduction.svg" alt="Metrics" />
-</picture>  
-<picture>
-  <img align="right" height="100%" width="45%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.steam.svg" alt="Metrics" />
+  <img height="100%" width="47%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.introduction.svg" alt="Metrics" />
+  <img height="100%" width="47%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.steam.svg" alt="Metrics" />
 </picture>  
