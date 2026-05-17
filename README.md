@@ -90,10 +90,10 @@
 
 <p align="center">
   <a href="mailto:mogumc@outlook.com">
-    <img src="https://img.shields.io/badge/Email-mogumc%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook" alt="Email"/>
+    <img weight="40%" src="https://img.shields.io/badge/Email-mogumc%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook" alt="Email"/>
   </a>
   <a href="https://t.me/MoGuQAQ">
-    <img src="https://img.shields.io/badge/Telegram-MoGuQAQ-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
+    <img weight="40%" src="https://img.shields.io/badge/Telegram-MoGuQAQ-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
   </a>
 </p>
 
