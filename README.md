@@ -69,7 +69,7 @@
 
 ## 📊 GitHub 统计
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=mogumc&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&locale=cn" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mogumc&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=000&locale=cn" alt="Top Languages"/>
 </p>
