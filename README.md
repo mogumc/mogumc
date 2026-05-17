@@ -106,16 +106,26 @@
 <br />
 
 ---
+## 🌈 最近更新
 
-## 🧐 更多
+<p align="center">
+  <img width="100%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.rss.svg" alt="Metrics" />
+</p>
+
+---
+
+## 🧐 更多活动
 
 <picture>
   <img height="100%" width="47%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.introduction.svg" alt="Metrics" />
   <img height="100%" width="47%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.steam.svg" alt="Metrics" />
 </picture>  
 
-<p align="center">
-  <img width="100%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.rss.svg" alt="Metrics" />
-</p>
+---
 
+<div align="center">
 
+**Code Crafted 💫 MoGuQAQ**  
+**© 2026 MoGuQAQ. All rights reserved.**
+
+</div>
