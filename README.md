@@ -45,6 +45,8 @@
 
 ## 🔗 链接
 
+<br />
+
 <p align="center">
   <a href="https://my.baidup.top/" target="_blank">
     <img src="https://img.shields.io/badge/KinhWeb-我的网盘-36BC9B?style=for-the-badge" alt="KinhWeb"/>
@@ -55,7 +57,12 @@
   <a href="https://t.me/tg_tx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-交流群-26A5E4?style=for-the-badge" alt="Telegram Group"/>
   </a>
+  <a href="https://github.com/OShinTeam" target="_blank">
+    <img src="https://img.shields.io/badge/OShinTeam-组织-66CCFF?style=for-the-badge" alt="Telegram Group"/>
+  </a>
 </p>
+
+<br />
 
 ---
 
@@ -88,6 +95,8 @@
 
 ## 📧 联系方式
 
+<br />
+
 <p align="center">
   <a href="mailto:mogumc@outlook.com">
     <img src="https://img.shields.io/badge/Email-mogumc%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook" alt="Email"/>
@@ -95,7 +104,12 @@
   <a href="https://t.me/MoGuQAQ">
     <img src="https://img.shields.io/badge/Telegram-MoGuQAQ-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
   </a>
+  <a href="https://osu.ppy.sh/users/15073827">
+    <img src="https://img.shields.io/badge/OSU-MoGuQAQ-FFC0CB?style=flat-square&logo=osu" alt="OSU"/>
+  </a>
 </p>
+
+<br />
 
 ---
 
