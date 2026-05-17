@@ -102,8 +102,8 @@
 ## 🧐 更多
 
 <picture>
-  <img align="left" height="100%" width="45%" src="https://pic.moguq.top/actions/metrics.plugin.introduction.svg" alt="Metrics" />
+  <img align="left" height="100%" width="45%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.introduction.svg" alt="Metrics" />
 </picture>  
 <picture>
-  <img align="right" height="100%" width="45%" src="https://pic.moguq.top/actions/metrics.plugin.steam.svg" alt="Metrics" />
+  <img align="right" height="100%" width="45%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.steam.svg" alt="Metrics" />
 </picture>  
