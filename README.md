@@ -4,12 +4,12 @@
 
 <p align="center">
   <pre>
-    ███╗   ███╗ ██████╗  ██████╗ ██╗   ██╗ ██████╗  █████╗  ██████╗ 
-    ████╗ ████║██╔═══██╗██╔════╝ ██║   ██║██╔═══██╗██╔══██╗██╔═══██╗
-    ██╔████╔██║██║   ██║██║  ███╗██║   ██║██║   ██║███████║██║   ██║
-    ██║╚██╔╝██║██║   ██║██║   ██║██║   ██║██║▄▄ ██║██╔══██║██║▄▄ ██║
-    ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝
-    ╚═╝     ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝  ╚══▀▀═╝ ╚═╝  ╚═╝ ╚══▀▀═╝                                                               
+    ███╗   ███╗ ██████╗  ██████╗ ██╗   ██╗ ██████╗  █████╗  ██████╗   
+    ████╗ ████║██╔═══██╗██╔════╝ ██║   ██║██╔═══██╗██╔══██╗██╔═══██╗  
+    ██╔████╔██║██║   ██║██║  ███╗██║   ██║██║   ██║███████║██║   ██║  
+    ██║╚██╔╝██║██║   ██║██║   ██║██║   ██║██║▄▄ ██║██╔══██║██║▄▄ ██║  
+    ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝  
+    ╚═╝     ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝  ╚══▀▀═╝ ╚═╝  ╚═╝ ╚══▀▀═╝                                                                 
   </pre>
 </p>
 
@@ -90,10 +90,10 @@
 
 <p align="center">
   <a href="mailto:mogumc@outlook.com">
-    <img weight="40%" src="https://img.shields.io/badge/Email-mogumc%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-mogumc%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook" alt="Email"/>
   </a>
   <a href="https://t.me/MoGuQAQ">
-    <img weight="40%" src="https://img.shields.io/badge/Telegram-MoGuQAQ-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-MoGuQAQ-26A5E4?style=flat-square&logo=telegram" alt="Telegram"/>
   </a>
 </p>
 
@@ -102,6 +102,6 @@
 ## 🧐 更多
 
 <p align="left">
-  <img src="https://pic.moguq.top/actions/metrics.plugin.introduction.svg" alt="Metrics" />
-  <img src="https://pic.moguq.top/actions/metrics.plugin.steam.svg" alt="Metrics" />
+  <img weight="40%" src="https://pic.moguq.top/actions/metrics.plugin.introduction.svg" alt="Metrics" />
+  <img weight="40%" src="https://pic.moguq.top/actions/metrics.plugin.steam.svg" alt="Metrics" />
 </p> 
