@@ -76,11 +76,8 @@
 
 ### 📈 贡献热力图
 
-<p align="center">
+<p align="left">
   <img src="https://ghchart.rshah.org/mogumc" alt="Contribution Snake"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mogumc&theme=tokyo-night&bg_color=00000&locale=cn" alt="Contribution Snake"/>
 </p>
 
@@ -101,10 +98,7 @@
 
 ## 🧐 更多
 
-<picture>
-  <img align="left" height="100%" width="45%" src="https://pic.moguq.top/actions/metrics.plugin.introduction.svg" alt="Metrics" />
-</picture>  
-
-<picture>
-  <img align="right" height="100%" width="45%" src="https://pic.moguq.top/actions/metrics.plugin.steam.svg" alt="Metrics" />
-</picture>  
+<p align="left">
+  <img src="https://pic.moguq.top/actions/metrics.plugin.introduction.svg" alt="Metrics" />
+  <img src="https://pic.moguq.top/actions/metrics.plugin.steam.svg" alt="Metrics" />
+</p> 
