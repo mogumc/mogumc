@@ -30,7 +30,7 @@
 | 项目 | 简介 | 状态 | 链接 |
 |:---|:---|:---|:---|
 | 🚀 **OShin** | 多网盘聚合客户端，支持插件扩展 | [![Status](https://img.shields.io/badge/status-developing-brightgreen)](https://github.com/OShinTeam/OShin/) | [Release](https://github.com/OShinTeam/OShin/releases) |
-| 🌐 **KinhWeb** | 基于百度网盘的在线仓库 | [![Status](https://img.shields.io/badge/status-release-blue)](https://github.com/mogumc/KinhWeb/) | [Release](https://github.com/mogumc/KinhWeb/releases) |
+| 🌐 **KinhWebEO** | 基于Serverless百度网盘的在线仓库 | [![Status](https://img.shields.io/badge/status-release-blue)](https://github.com/mogumc/KinhWebEO/) | [Release](https://github.com/mogumc/KinhWebEO/releases) |
 | ⚡ **SpeedTest** | 轻量级测速工具 | [![Status](https://img.shields.io/badge/status-release-blue)](https://github.com/mogumc/speedtest/) | [Release](https://github.com/mogumc/speedtest/releases) |
 | 🎮 **MGL** | 一站式游戏启动器 | [![Status](https://img.shields.io/badge/status-on%20hold-orange)](https://github.com/OShinTeam/MGL) | [Release](https://github.com/OShinTeam/MGL/releases) |
 
