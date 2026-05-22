@@ -64,7 +64,7 @@
 ## 🛠️ 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,vue,js,html,css,linux,git,github,docker&theme=dark&no-bg=true" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=go,python,vue,react,js,html,css,linux,git,github,docker&theme=dark&no-bg=true" alt="Tech Stack"/>
 </p>
 
 ---
