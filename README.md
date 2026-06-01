@@ -113,9 +113,9 @@
 ---
 ## 🌈 最近更新
 
-<p align="center">
+<picture align="center">
   <img width="100%" src="https://github.com/mogumc/blog-pic/raw/main/actions/metrics.plugin.rss.svg" alt="Metrics" />
-</p>
+</picture>
 
 ---
 
