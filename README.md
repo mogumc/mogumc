@@ -43,7 +43,7 @@
 <br />
 
 <p align="center">
-  <a href="https://my.baidup.top/" target="_blank">
+  <a href="https://my.moguq.top/" target="_blank">
     <img src="https://img.shields.io/badge/KinhWeb-我的网盘-36BC9B?style=for-the-badge" alt="KinhWeb"/>
   </a>
   <a href="https://blog.moguq.top/" target="_blank">
